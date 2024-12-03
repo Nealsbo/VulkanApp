@@ -20,7 +20,7 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <None Include="base.vs" />
-    <None Include="base.fs" />
+    <None Include="base.vert" />
+    <None Include="base.frag" />
   </ItemGroup>
 </Project>
